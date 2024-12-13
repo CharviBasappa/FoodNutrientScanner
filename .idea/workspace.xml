@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d066db6e-c4e3-4726-a280-ff4c9097fdee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FoodNutrientScanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/about.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/settings.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/eye-hide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Collapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ExternalLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HapticTab.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HelloWave.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ParallaxScrollView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ThemedText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ThemedView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/ThemedText-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.ios.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.ios.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.web.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useThemeColor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/npx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/reset-project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pxhkfem5k3XyNWo90KpMuBlcCp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chavri/source/repos/Work/Expo/FoodNutrientScanner&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chavri\source\repos\Work\Expo\FoodNutrientScanner\frontend\app" />
+      <recent name="C:\Users\Chavri\source\repos\Work\Expo\FoodNutrientScanner" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d066db6e-c4e3-4726-a280-ff4c9097fdee" name="Changes" comment="" />
+      <created>1733713780087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733713780087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+</project>
