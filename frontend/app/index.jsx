@@ -51,7 +51,7 @@ export default function Index() {
 
     try {
       const response = await axios.post(
-        "http://10.0.0.231:5000/analyze",
+        "https://flask-backend-tdpp.onrender.com/analyze",
         formData,
         {
           headers: {
